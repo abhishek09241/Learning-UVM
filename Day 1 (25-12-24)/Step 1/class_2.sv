@@ -4,7 +4,7 @@
 		import pkg_1:: package_1;	// Importing the package_1 from the package pkg_1
 
 	module class_2 ;
-		import uvn_pkg::*;			// Importing all components from the UVM package
+		import uvm_pkg::*;			// Importing all components from the UVM package
 		
 		package_1 pkg_h;			// Declaring a handle to the package_1 class
 
